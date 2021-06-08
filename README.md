@@ -1,0 +1,1 @@
+[acockburn/appdaemon:latest](https://hub.docker.com/r/acockburn/appdaemon) from hub.docker.com with some extra drivers/packages
